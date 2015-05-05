@@ -24408,6 +24408,114 @@
           "id": "vp_xlframe_vertical_2",
           "fg": 2768,
           "rotates": true
+        },
+        {
+          "id": "garlic",
+          "fg": 862,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "nomex",
+          "fg": 2416,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "wild_herbs",
+          "fg": 988,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "two_way_radio",
+          "fg": 2501,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "flint_steel",
+          "fg": 674,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "brick_kiln",
+          "fg": 2335,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "primitive_axe",
+          "fg": 2306,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "hand_axe",
+          "fg": 1371,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "oxy_torch",
+          "fg": 2536,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "metal_tank_small",
+          "fg": 1027,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "crucible_clay",
+          "fg": 1010,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "clay_lump",
+          "fg": 1031,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "stomach_sealed",
+          "fg": 1029,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "bone_glue",
+          "fg": 748,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "spear_forked",
+          "fg": 1342,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "f_forge_rock",
+          "fg": 2333,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "f_kiln_empty",
+          "fg": 1208,
+          "bg": 632,
+          "rotates": false
+        },
+        {
+          "id": "f_kiln_full",
+          "fg": 1208,
+          "bg": 632,
+          "rotates": false
         }
       ]
     },
