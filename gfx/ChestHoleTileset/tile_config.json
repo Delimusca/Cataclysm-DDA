@@ -15146,7 +15146,7 @@
         },
         {
           "id": "mon_dog",
-          "fg": 2803,
+          "fg": 1664,
           "bg": 642,
           "rotates": false
         },
@@ -15808,7 +15808,7 @@
         },
         {
           "id": "mon_zombie_dog",
-          "fg": 2804,
+          "fg": 1789,
           "bg": 642,
           "rotates": false
         },
@@ -15856,7 +15856,7 @@
         },
         {
           "id": "mon_zombie_hulk",
-          "fg": 2810,
+          "fg": 1797,
           "bg": 642,
           "rotates": false
         },
